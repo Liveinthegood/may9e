@@ -1,0 +1,617 @@
+/* media query for desktop *//* media query for desktop *//* media query for desktop *//* media query for desktop */
+
+
+
+
+@media only screen and (min-width:1000px) {
+
+.logo {
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rolltidelogo{
+
+  height:100%;
+  width: 100%;
+
+  
+}
+
+.helmet{
+
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+.helmet2{
+
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+
+}
+
+.pro{
+  text-decoration: underline;
+  color:red;
+
+}
+
+
+
+.color2{
+
+  color:blue;
+}
+
+
+.picture {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.pictureindex {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 60px;
+}
+
+.main-texttop{
+  font-family: 'Alfa Slab One', cursive;
+
+
+
+}
+.PlayerName{
+  padding-left: 25px;
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+h1{
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.playersTitlename{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 65px;
+  line-height: 1.5;
+  font-weight: 900;
+  padding-left: 50px;
+
+}
+
+
+
+
+
+
+p{
+color: #8f8f8f;
+
+
+}
+
+
+
+/* Features Section */
+
+
+
+#features {
+padding: 7% 15%;
+background-color: #FFC20E;
+position: relative;
+
+}
+
+.feature-box {
+text-align: center;
+padding:5%;
+
+}
+
+
+/* Fans cheering section and Players block Section */
+
+
+.namelocation{
+
+  font-size: 52px;
+  width:100%;
+  text-align: center;
+}
+
+
+#testimonials {
+text-align: center;
+padding-bottom: 20px;
+background-color: black;
+color: white;
+
+}
+
+
+.player-text{
+
+font-family: "Ubuntu";
+color: #FFB612;
+text-align: center;
+padding-top: 50px;
+
+
+}
+
+.meetplayers {
+
+  padding-top: 25px;
+  font-size: 105px;
+  color: white;
+  font-family: 'Road Rage', cursive;
+
+}
+
+.player-image {
+  width: 100%;
+  margin: 20px;
+
+
+}
+
+/* text explaining their draft pick status */
+
+
+.carousel-item {
+  padding: 7% 15%;
+
+
+}
+
+
+/* Red button in footer sections */
+
+
+
+.btn3 {
+   background: black;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: white;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 55px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+/* Footer Section */
+
+.footer2 {
+padding: 50px;
+text-align: center;
+font-size: 38px;
+background-color: black;
+
+}
+
+.footer3 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: #FFC20E;
+  
+  }
+
+}
+
+
+/* media query for tablet *//* media query for tablet *//* media query for tablet *//* media query for tablet */
+
+
+
+
+@media only screen and (min-width:768px){
+
+  .logo {
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+}
+
+.rolltidelogo{
+
+  height:100%;
+  width: 100%;
+  
+}
+
+.helmet{
+
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+.helmet2{
+
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+
+}
+
+.pictureindex {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 60px;
+}
+
+
+
+/* media query for mobile *//* media query for mobile *//* media query for mobile *//* media query for mobile */
+
+
+
+@media only screen and (min-width:468px){
+
+
+  .logo {
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .rolltidelogo{
+
+    height:100%;
+    width: 100%;
+    
+  }
+
+  .helmet{
+
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin: auto;
+  
+  }
+
+  .helmet2{
+
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding-bottom: 30px;
+  
+  }
+  
+  
+  .pro{
+    text-decoration: underline;
+    color:red;
+  
+  }
+  
+
+  
+  .color2{
+  
+    color:blue;
+  }
+  
+  
+  .picture {
+    height: 100%;
+    width: 100%;
+    position:relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .pictureindex {
+    height: 100%;
+    width: 100%;
+    position:relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 60px;
+  }
+  
+  .main-texttop{
+    font-family: 'Alfa Slab One', cursive;
+  
+  
+  
+  }
+  .PlayerName{
+    padding-left: 25px;
+  }
+  
+  .HeaderTrueLove{
+  
+    text-align: center;
+  }
+  .container-fluid{
+    padding: 3% 15% 7%;
+  }
+  
+  h1{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+  }
+  
+  .playersTitlename{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 65px;
+    line-height: 1.5;
+    font-weight: 400;
+    padding-left: 50px;
+  
+  }
+  
+  
+  
+  
+  .welcome{
+    text-align: center;
+    font-family: 'Road Rage', cursive;
+    font-size: 75px;
+  }
+  
+  
+  
+  p{
+  color: #8f8f8f;
+  
+  
+  }
+  
+  /* Navigation Bar */
+  
+  
+  
+  .navbar {
+    padding-bottom: 2.5rem;
+    background-color: black;
+    
+    }
+    
+    .nav-item {
+    padding: 0 18px;
+    
+    
+    }
+    
+    .nav-link{
+    font-size: 22px;
+    font-family: "Ubuntu";
+    
+    
+    }
+    
+    .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-weight: bold;
+    background-color: black;
+    
+    }
+  
+  
+  
+  .navbar {
+  padding-bottom: 1.5rem;
+  
+  }
+  
+  .nav-item {
+  padding: 0 10px;
+  
+  
+  }
+  
+  .nav-link{
+  font-size: 50px;
+  
+  
+  }
+  
+  .navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 27px;
+  font-weight: bold;
+  padding-left: 12px;
+  
+  }
+  
+  
+  
+  
+  
+  /* Features Section */
+  
+  
+  
+  #features {
+  padding: 7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+  
+  }
+  
+  .feature-box {
+  text-align: center;
+  padding:5%;
+  
+  }
+  
+  
+  /* Fans cheering section and Players block Section */
+  
+  
+  .namelocation{
+  
+    font-size: 52px;
+    width:100%;
+    text-align: center;
+  }
+  
+  
+  #testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+  
+  }
+  
+  
+  .player-text{
+  
+  font-family: "Ubuntu";
+  color: #FFB612;
+  
+  
+  }
+  
+  .meetplayers {
+  
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+  
+  }
+  
+  .player-image {
+    width: 100%;
+    margin: 20px;
+  
+  
+  }  
+  /* text explaining their draft pick status */
+  
+  
+  .carousel-item {
+    padding: 7% 15%;
+  
+  
+  }
+  
+  
+  /* Red button in footer sections */
+  
+  
+  
+  .btn3 {
+     background:black;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 15px;
+     line-height: 10px;
+     color: yellow;
+     font-family: Road Rage;
+     width: 75%;
+     font-size: 55px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  
+  /* Footer Section */
+  
+  .footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: black;
+  
+  }
+  
+  .footer3 {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    background-color: #FFC20E;
+    
+    }
+  
+  }
+
